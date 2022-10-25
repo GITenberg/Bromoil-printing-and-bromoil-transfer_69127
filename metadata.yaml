@@ -5,12 +5,17 @@ contributor:
     agent_name: Frank Roy Fraprie, S.M, F.R.P.S.
     gutenberg_agent_id: '55125'
     url: http://www.gutenberg.org/2009/agents/55125
+covers:
+- cover_type: archival
+  image_path: 69127-h/images/cover.jpg
 creator:
   author:
     agent_name: Mayer, Dr. Emil
     gutenberg_agent_id: '55124'
     url: http://www.gutenberg.org/2009/agents/55124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69127#Bromoil-printing-and-bromoil-transfer
 gutenberg_issued: '2022-10-10'
 identifiers:
   gutenberg: '69127'
